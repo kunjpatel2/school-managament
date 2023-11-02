@@ -1,2 +1,4 @@
 # school-managament
-this intraction file of this project 
+this is student management project
+set up esily 
+login to dashboard 
